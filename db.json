@@ -1,5 +1,5 @@
 {
-   todos: [
+   "todos": [
     { "id": 0, "text": "bersih bersih", "completed": false},
     { "id": 1, "text": "Membaca", "completed": false},
     { "id": 2, "text": "Mengaji", "completed": false}
